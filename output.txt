@@ -1,0 +1,19 @@
+Script started on 2020-10-23 14:02:49+0200
+]0;arpan@arpan-ThinkPad-E490: ~/Summum Bonum/Software tutorials/shell scripting[01;32marpan@arpan-ThinkPad-E490[00m:[01;34m~/Summum Bonum/Software tutorials/shell scripting[00m$ he[K[K./helo[Klo.sh
+Hello World
+/bin/bash
+4.4.20(1)-release
+/home/arpan/Summum Bonum/Software tutorials/shell scripting
+names:
+Arpan
+name:Aru
+pass:
+name: Aru
+pass: krish
+Arpan
+k
+k
+]0;arpan@arpan-ThinkPad-E490: ~/Summum Bonum/Software tutorials/shell scripting[01;32marpan@arpan-ThinkPad-E490[00m:[01;34m~/Summum Bonum/Software tutorials/shell scripting[00m$ exit
+exit
+
+Script done on 2020-10-23 14:03:21+0200
